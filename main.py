@@ -13,7 +13,7 @@ from telethon import TelegramClient, events
 class Config:
     BOT_TOKEN = ""
     SOURCE_CHANNEL = 
-    BOT_CHAT_IDS = [5939411038,1439474740]  
+    BOT_CHAT_IDS = [5939511038,1151474740]  
     API_ID = 
     API_HASH = ""
     MT5_ACCOUNT = 5039718172
